@@ -1,1 +1,2 @@
 # devopstraining
+learning git commands
